@@ -4,10 +4,14 @@ Code for audio_to_audio interaction with dialogflow.
 Works well only with python 3.5+
 Install following packages
 
-pip install gtts
-pip install dialogflow
-pip install pyaudio
-pip install simpleaudio
+    pip install gtts
+
+    pip install dialogflow
+
+    pip install pyaudio
+
+    pip install simpleaudio
+
 
 
 Get the service key json from dialogflow project & give path in 23rd line!
