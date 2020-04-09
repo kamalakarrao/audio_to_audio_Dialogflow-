@@ -1,4 +1,4 @@
-# audio_to_audio_Dialogflow-
+# audio_to_audio_Dialogflow code in Python
 Code for audio_to_audio interaction with dialogflow.
 
 Works well only with python 3.5+
